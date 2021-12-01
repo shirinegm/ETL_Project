@@ -9,6 +9,7 @@ Group 10's Soccer Player vs FIFA Ranking Analysis ETL Project  with Timothy Reyn
 * `world_cup_comparisons.csv` from https://github.com/fivethirtyeight/data/tree/master/world-cup-comparisons
 
 ## Instructions
+
 1. Create Postgres Database in pg admin called `soccer_db`.
 1. Open the `ETL_Technical_Report.ipynb` jupyter notebook.
 1. Run cells all the way til Cell # 22 then stop. This is clearly marked in the jupyter notebook with the word HALT.
